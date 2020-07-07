@@ -1,0 +1,3 @@
+https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.1-Scalars-Vectors-Matrices-and-Tensors/
+https://github.com/coding-blocks-archives/machine-learning-online-2018/blob/master/2.%20Working%20with%20Libraries/linear_algebra-start.ipynb
+https://www.mpcm.org/visualizing-matrix-multiplication-as-a-linear-combination-eli-benderskys-website/
